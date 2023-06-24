@@ -1,7 +1,7 @@
 {
   "name": "WhatsApp Bot Multi Device",
   "description": "Te quiero mucho >~<",
-  "repository": "https://github.com/Yesenia57/NekosmicBot-MD/",
+  "repository": "https://github.com/Gamotto/NekosmicBot-MD/",
   "logo": "https://i.ibb.co/VjF33JW/images-8.jpg",
   "keywords": ["nodejs", "whatsapp-bot", "multi-device"],
   "buildpacks": [
